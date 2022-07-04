@@ -1,0 +1,168 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Secular One', sans-serif;
+}
+#contenedor{
+    background-color: beige;
+    width: 1200px;
+    margin: auto;
+}
+
+
+
+
+
+header{
+    background: black;
+}
+header img{
+    margin: 10px 50px;
+}
+nav{
+    display: inline-block;
+    width: 900px;
+    height: 127px;
+    margin: auto;
+    vertical-align: top;
+    text-align: right;
+}
+nav ul{
+    margin: auto;
+    margin: 50px 0px;
+}
+nav ul li{
+    display: inline-block;
+}
+nav a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
+nav a:hover{
+    background: red;
+}
+
+
+
+
+
+#bannerInicio{
+    height: 539px;
+    background: url("imagenes/bannerInicio.jpg") no-repeat;
+}
+#bannerProductos{
+    height: 539px;
+    background: url("imagenes/bannerProductos.jpg") no-repeat;
+}
+#bannerNosotros{
+    height: 539px;
+    background: url("imagenes/bannerNosotros.jpg") no-repeat;
+}
+#bannerContacto{
+    height: 539px;
+    background: url("imagenes/bannerContacto.jpg") no-repeat;
+}
+
+
+
+
+
+#seccionInicio{
+    padding-bottom: 100px;
+}
+#seccionInicio h2{
+    padding: 20px 50px;
+}
+#seccionInicio article{
+    width: 400px;
+    display: inline-block;
+    margin-left: 50px;
+}
+#seccionInicio article h3{
+    margin: 15px 0px;
+}
+#seccionInicio figure{
+    text-align: center;
+}
+#seccionInicio aside{
+    background: black;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-left: 25px;
+}
+#seccionInicio aside img{
+    display: block;
+    margin: 30px 20px;
+}
+
+
+
+
+#seccion1Productos{
+    color: white;
+    background: black;
+}
+#seccion1Productos img{
+    display: inline-block;
+    padding: 70px 0px;
+    padding-left: 150px;
+    padding-right: 50px;
+}
+#infoProductos{
+    display: inline-block;
+    width: 400px;
+    vertical-align: top;
+    margin-top: 70px;
+}
+
+#seccion2Productos{
+    text-align: center;
+    padding-bottom: 50px;
+}
+#seccion2Productos article{
+    display: inline-block;
+    width: 300px;
+    padding: 30px;
+}
+#seccion2Productos h2{
+    padding-top: 30px;
+}
+#seccion2Productos article p{
+    padding: 20px 0px;
+}
+
+
+
+
+
+
+footer{
+    background: black;
+    color: white;
+}
+footer p{
+    display: inline-block;
+    width: 600px;
+    padding: 50px;
+}
+#redes{
+    display: inline-block;
+    padding-left: 250px;
+}
+#redes img{
+    padding: 10px;
+}
+
+
+
+
+.paginaConstruccion{
+    text-align: center;
+    padding: 400px 0px;
+    background: beige;
+}
+.paginaConstruccion h1{
+    font-size: 80px;
+}
